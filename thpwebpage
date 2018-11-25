@@ -1,0 +1,223 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" href="style/style.css" />
+        <title>THP - Dr. Jan Gelhausen</title>
+        <link rel="shortcut icon" type="image/x-icon" href="figures/shortcut.ico">
+    </head>
+
+
+    <body link="#003366" vlink="#003366" alink="#003366">
+        <div id="container">
+            <div id="container_center">
+
+
+
+                <!-- This is the top-left logo -->
+                <div id="rectangle_thplogo_blue"></div>
+                <div id="rectangle_thplogo_white"></div>
+                <div id="rectangle_thplogo_thp"></div>
+                <div id="positioner_thplogo_thplogo">
+                    <a href="http://www.thp.uni-koeln.de/">
+                        <img src="figures/Logo_THP.png" width="200" height="79" border="0" />
+                    </a>
+                </div>
+
+
+
+                <!-- This is the top-box -->
+                <div id="rectangle_top">
+                    <div id="positioner_titelbild">
+                        <a href="http://www.thp.uni-koeln.de/~jg/index.html"><img src="figures/Boundary.png" width="694" height="157" border="0" /></a>
+                    </div>
+                </div>
+
+
+
+                <!-- This is the central box -->
+                <div id="rectangle_center">
+
+                    <div id="positioner_portrait">
+                        <!--	<img src="figures/me.jpg" width="150" height="240" border="0" /> -->
+                        <img src="figures/me3.jpg" width="200" height="320" border="0" />
+                    </div>
+
+                    <div id="positioner_center">
+
+
+                        <h1>Dr. Jan Gelhausen</h1>
+                        <p><a id="black", href="http://www.thp.uni-koeln.de/"><strong>Institute for Theoretical Physics</strong></a><br />
+                        University of Cologne <br />
+                        Z&uuml;lpicher Str. 77 <br />
+                        Room 2.10 (New Building) <br />
+                        D-50937 Cologne, Germany <br />
+                        Phone: 	<a style="display:none" class="tel" itemprop="telephone" id="tellink" href="tel:+492214701058">+49 (0)221 470 1058</a><span id="teltext">+49 (0)221 470 1058</span>
+                        <script type="text/javascript">
+                            if (/\b(Android|iPhone|Windows Phone)\b/.test(navigator.userAgent)) {
+                                document.getElementById("teltext").style.display="none";
+                                document.getElementById("tellink").style.display="inline";
+                            }
+                        </script> <br />
+                        email:
+                        <script type="text/javascript">
+                            var a="040;thp.un";
+                            var b="ilto";
+                            var c="j";
+                            var d="i-koeln.d";
+                            var e=c+"g&#x0"+a+d+"e";
+                            document.write("<a hr"+"ef=ma"+b+":"+e+">"+e+"</"+"a>");
+                            </script>
+                        <noscript>
+                            <div class="email" itemprop="email">jg -(a)- thp -dot- uni-koeln -dot- de</div>
+                        </noscript>
+                        <br />
+                        <p><a id="black", href="http://orcid.org/0000-0003-0705-8566"><strong>ORCID-ID </strong>0000-0003-0705-8566</a><br />
+
+                        <p><a id="black", href="https://de.linkedin.com/in/jan-gelhausen-58b7b689"><strong>Also visit my LinkedIn webpage </strong></a><br />
+
+                        </p>
+
+
+                        <h2>Research Interests</h2>
+                        <ul>
+                            <strong>Quantum Many-Body Optics with Interacting Atoms in a Cavity</strong>
+                            <li> Cavity QED </li>
+                            <li> Rydberg-dressed spin-lattices in optical cavities.	</li>
+                            <!-- <li> Quantum-Optical Realisation of the Dicke- and spin-models </li> -->
+                            <li> driven-dissipative lattice systems far from equilibrium </li>
+                        </ul>
+
+                        <h2>Brief academic CV</h2>
+                        <table>
+                            <tbody>
+				<tr>
+                                    <td>since 08/2018</td>
+                                    <td>Postdoc in the research group of <a href="http://www.thp.uni-koeln.de/rosch/"> Prof. Dr. Achim Rosch </a></td>
+                                </tr>
+                                <tr>
+                                    <td>12/2014-08/2018</td>
+                                    <td>PhD student in the research group of <a href="http://www.thp.uni-koeln.de/rosch/"> Prof. Dr. Achim Rosch (previously Dr. Philipp Strack)</a></td>
+                                </tr>
+                                <tr>
+                                    <td>02/2018-03/2018</td>
+                                    <td>Research stay at the California Institute of Technology (USA) with Dr. Michael Buchhold</td>
+                                </tr>
+                                <tr>
+                                    <td>01/2015-03/2015</td>
+                                    <td> Research stay at Boston (USA) with Dr. Philipp Strack </td>
+                                </tr>
+
+                                <tr>
+                                    <td>10/2014 - 12/2014</td>
+                                    <td> Internship at <a href="http://www.d-fine.com">d-fine GmbH</a> <br/>
+                                        (risk management and financial consultancy, Frankfurt, Germany) </td>
+                                </tr>
+                                <tr>
+                                    <td>08/2012 - 08/2014</td>
+                                    <td> M.Sc. Physics in the group of Prof. Dr. Matthias Eschrig <br/>(<a href="https://www.royalholloway.ac.uk/home.aspx">Royal Holloway and Bedford New College, University of London</a>,UK) </td>
+                                </tr>
+
+                                <tr>
+                                    <td>04/2009 - 04/2012</td>
+                                    <td> B.Sc. Physics in the group of Prof. Dr. Achim Rosch <br/>
+                                        (<a href="http://www.thp.uni-koeln.de">University of Cologne</a>, Germany)</td>
+                                </tr>
+                                <!--<tr>
+                                 <td></td>
+                                 <td>(<a href="http://www.thp.uni-koeln.de">University of Cologne</a>, Germany)</td>
+                                 </tr> -->
+                            </tbody>
+                        </table>
+
+
+                        <h2>Teaching</h2>
+                        <table><tbody>
+                            <tr>
+                                <td>Winter 2017/2018</td>
+                                <td>Tutor for lecture <a href="http://www.thp.uni-koeln.de/trebst/Lectures/2017-StatPhys.shtml">Statistische Physik</a></td>
+                            </tr>
+                            <tr>
+                                <td>Summer 2017</td>
+                                <td>Tutor for lecture <a href="http://mathmeth2.wikispaces.com/home">Lineare Algebra und Vektoranalysis I</a></td>
+                            </tr>
+                            <tr>
+                                <td>Winter 2016/2017</td>
+                                <td>Tutor for lecture <a href="http://www.thp.uni-koeln.de/~jmueller/tp1-ws1617.html">Theoretische Physik I (Mechanik)</a></td>
+                            </tr>
+                            <tr>
+                                <td>Summer 2016</td>
+                                <td>Tutor for lecture <a href="http://www.thp.uni-koeln.de/~lux/QMSS16/">Theoretische Physik II (Quantenmechanik)</a></td>
+                            </tr>
+                            <tr>
+                                <td>Winter 2015/16</td>
+                                <td>Tutor for lecture <a href="http://www.thp.uni-koeln.de/~strack/Philipps_homepage/Teaching.html">Many-body quantum optics I</a></td>
+                            </tr>
+                            <tr>
+                                <td>Summer 2015</td>
+                                <td>Tutor for lecture <a href="http://www.thp.uni-koeln.de/~ses/qm2015/">Theoretische Physik II (Quantenmechanik)</a></td>
+                            </tr>
+                            <tr>
+                                <td>01/2014-05/2014 </td>
+                                <td>Tutor for lecture <a href="http://pure.rhul.ac.uk/portal/en/persons/matthias-eschrig(4a4fbf62-0925-4b33-8a92-8ac9dcd3d394).html">The Solid State</a> (RHUL, London) </td>
+                            </tr>
+                        </tbody>
+                        </table>
+
+
+                        <h2>Publications</h2>
+                        <ul>
+                            <li> <a href="https://arxiv.org/abs/1709.08646"> Dissipative Dicke Model with Collective Atomic Decay: Bistability, Noise-Driven Activation and Non-Thermal First Order Superradiance Transition</a></li>
+                            <li> Jan Gelhausen and Michael Buchhold</li>
+                            <li> Published in: [<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.023807">Phys. Rev. A 97, 023807</a>] ; arXiv e-print. [<a href="https://arxiv.org/abs/1709.08646">arXiv:1709.08646</a>] </li>
+                        </ul>
+                        <ul>
+                            <li> <a href="http://arxiv.org/abs/1608.01319"> Quantum-optical magnets with competing short- and long-range interactions: Rydberg-dressed spin lattice in an optical cavity</a></li>
+                            <li> Jan Gelhausen, Michael Buchhold, Achim Rosch and Philipp Strack </li>
+                            <li> Published in: [<a href="https://scipost.org/10.21468/SciPostPhys.1.1.004.">SciPost Phys. 1(1), 004 (2016)</a>]; arXiv e-print. [<a href="http://arxiv.org/abs/1608.01319">arXiv:1608.01319</a>] </li>
+                        </ul>
+
+                        <ul>
+                            <li> <a href="https://arxiv.org/abs/1605.07637"> Many-Body Quantum Optics with Decaying Atomic Spin States: (gamma,kappa) Dicke Model</a></li>
+                            <li> Jan Gelhausen, Michael Buchhold, and Philipp Strack </li>
+                            <li> Published in: [<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.063824">Phys. Rev. A 95, 063824</a>]; arXiv e-print. [<a href="https://arxiv.org/abs/1605.07637">arXiv:1605.07637</a>]
+                                </ul>
+
+                        <ul>
+                            <li> <a href="https://arxiv.org/abs/1604.07155"> Theory of a Weak-Link Superconductor-Ferromagnet Josephson Structure</a></li>
+                            <li> Jan Gelhausen and Matthias Eschrig</li>
+                            <li> Published in: [<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.104502">Phys. Rev. B 94, 104502</a>]; arXiv e-print: [<a href="https://arxiv.org/abs/1604.07155">arXiv:1604.07155</a>]</li>
+                            <!--arXiv e-print. [<a href="https://arxiv.org/abs/1604.07155">arXiv:1604.07155</a>] - Submitted April 2016 - accepted in Physical Review B.-->
+                        </ul>
+
+
+                        <h2>Theses</h2>
+
+		    <ul>
+                        <li>Dissertation (2018) with Prof. Dr. Achim Rosch
+                            <li> <a href="https://kups.ub.uni-koeln.de/8516/1/gelhausen_dissertation.pdf"> Magnetic Phase Transitions in Driven-Dissipative Atomic Ensembles Interacting with Quantum Light
+                            </a></li>
+                    </ul>
+
+                        <ul>
+                            <li>Master Thesis (2014) with Prof. Dr. Matthias Eschrig
+                                <li> <a href="http://www.thp.uni-koeln.de/%7Ejg/Thesis/Msc_JanGelhausen.pdf"> Josephson Currents in a Weak-Link Superconductor-Ferromagnet Proximity Structure
+                                </a></li>
+                                </ul>
+
+                        <ul>
+                            <li> Bachelor Thesis (2012) with Prof. Dr. Achim Rosch
+                                <li> <a href="http://www.thp.uni-koeln.de/rosch/documents/bachelorJanGelhausen.pdf"> Time-Dependent Disorder in a Topological Insulator Realised with a Quantum Walk</a>
+                                    </ul>
+                        </ul>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </body>
+
+</html>
